@@ -1,4 +1,4 @@
-package com.example.tugaspertemuan5
+package com.example.pertemuan5tugas
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -7,7 +7,7 @@ import android.widget.Button
 import androidx.activity.result.contract.ActivityResultContracts
 import com.example.pertemuan5tugas.R
 import com.example.pertemuan5tugas.databinding.ActivityHomepageBinding
-import com.example.tugaspertemuan5.RegisterActivity.Companion.EXTRA_USERNAME
+import com.example.pertemuan5tugas.RegisterActivity.Companion.EXTRA_USERNAME
 
 class HomepageActivity : AppCompatActivity() {
 

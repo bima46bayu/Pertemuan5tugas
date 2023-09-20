@@ -1,4 +1,4 @@
-package com.example.tugaspertemuan5
+package com.example.pertemuan5tugas
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -8,7 +8,7 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import com.example.pertemuan5tugas.R
-
+import com.example.pertemuan5tugas.LoginPageActivity
 
 class ForgotPasswordActivity : AppCompatActivity() {
 

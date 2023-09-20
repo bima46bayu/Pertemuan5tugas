@@ -1,6 +1,5 @@
-package com.example.tugaspertemuan5
+package com.example.pertemuan5tugas
 
-import com.example.tugaspertemuan5.ForgotPasswordActivity
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
